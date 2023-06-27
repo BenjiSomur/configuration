@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "Noctis Minimus",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "Fira Code , 'monospace', monospace",
+  "explorer.confirmDelete": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.wordWrap": "on",
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.external.linuxExec": "konsole",
+  "terminal.integrated.autoReplies": {},
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "python.condaPath": "/home/BenjiSomur/anaconda3/bin/",
+  "redhat.telemetry.enabled": true,
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "php.completion.autoimport": "fqn",
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  }
+}

@@ -1,0 +1,15 @@
+Visual Studio Code (1.79.2, undefined, desktop)
+Jupyter Extension Version: 2023.5.1101742258.
+Python Extension Version: 2023.10.1.
+Platform: linux (x64).
+Multiple Workspace folders opened ~/Documents/Projects/javascript, ~/Documents/Projects/javascript/nodejs, ~/Documents/Projects/javascript/nodejs/loppbacktests, ~/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo, ~/Documents/Projects/docker, ~/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev, /opt/lampp/htdocs, ~/Documents/Master/Research project/HEGAcluster/HEGACluster, ~/Documents/Master/Research project/HEGAcluster/training
+14:54:12.620 [info] Start refreshing Interpreter Kernel Picker (1687640052620)
+14:54:12.671 [info] Using Pylance
+14:54:13.344 [warn] Failed to get activated env vars for /bin/python in 539ms
+14:54:13.381 [info] Process Execution: /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+14:54:13.423 [info] Process Execution: /bin/python -m pip list
+14:54:13.481 [info] Process Execution: /bin/python -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+14:54:15.065 [info] End refreshing Interpreter Kernel Picker (1687640052620)
+14:58:38.245 [info] Disposing HostJupyterExecution
+14:58:38.245 [info] Shutting down notebooks for cca7988a-7b58-4fc9-896c-5af38c9b198a
+14:58:38.245 [info] Disposing HostJupyterExecution

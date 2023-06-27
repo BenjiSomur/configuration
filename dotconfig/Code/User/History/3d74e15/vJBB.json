@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Documents/Projects/javascript"
+    },
+    {
+      "path": "../../../../Documents/Projects/javascript/nodejs"
+    },
+    {
+      "path": "../../../../Documents/Projects/javascript/nodejs/loppbacktests"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}

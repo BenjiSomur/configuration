@@ -1,0 +1,8 @@
+{
+  "require": {
+    "paquettg/string-encode": "0.1.1",
+    "paquettg/php-html-parser": "1.7.0",
+    "shadz3rg/lexer": "1.0.2",
+    "shadz3rg/php-stamp": "0.2.3"
+  }
+}

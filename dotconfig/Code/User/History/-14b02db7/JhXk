@@ -1,0 +1,18 @@
+FROM php:5.6-apache
+
+# RUN docker-php-ext-install pdo_mysql
+
+COPY --from=composer:2.2 /usr/bin/composer /usr/bin/composer
+
+WORKDIR /var/www/html/pdfWord
+
+COPY index.php .
+
+COPY resources .
+
+RUN mkdir results
+
+RUN php /usr/bin/composer install phpoffice/phpword --version=0.18.3
+
+
+

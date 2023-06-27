@@ -1,0 +1,41 @@
+{
+  "folders": [
+    {
+      "path": "javascript"
+    },
+    {
+      "path": "javascript/nodejs"
+    },
+    {
+      "path": "javascript/nodejs/loppbacktests"
+    },
+    {
+      "path": "../Master/4period/LANIA/Difusión/HEGAcluster"
+    },
+    {
+      "path": "../Master/4period/LANIA/DGEU/Convocatoria/Prototipo"
+    },
+    {
+      "path": "docker"
+    },
+    {
+      "path": "php"
+    },
+    {
+      "path": "../Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev"
+    },
+    {
+      "path": "../../../../opt/lampp/htdocs"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "files.associations": {
+      "cmath": "cpp"
+    }
+  }
+}

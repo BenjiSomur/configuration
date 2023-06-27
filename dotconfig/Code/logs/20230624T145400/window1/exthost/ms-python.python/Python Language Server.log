@@ -1,0 +1,81 @@
+2023-06-24 14:54:15.170 [info] [Info  - 2:54:15 PM] (6607) Pylance language server 2023.6.30 (pyright ae795f5b) starting
+2023-06-24 14:54:15.170 [info] [Info  - 2:54:15 PM] (6607) Server root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:15.183 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "javascript"
+2023-06-24 14:54:15.191 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "nodejs"
+2023-06-24 14:54:15.193 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "loppbacktests"
+2023-06-24 14:54:15.195 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "Prototipo"
+2023-06-24 14:54:15.196 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "docker"
+2023-06-24 14:54:15.198 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "dgeu-deev"
+2023-06-24 14:54:15.199 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "htdocs"
+2023-06-24 14:54:15.201 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "HEGACluster"
+2023-06-24 14:54:15.204 [info] [Info  - 2:54:15 PM] (6607) Starting service instance "training"
+2023-06-24 14:54:15.352 [info] [Info  - 2:54:15 PM] (6607) Setting pythonPath for service "javascript": "/bin/python"
+2023-06-24 14:54:15.372 [info] [Warn  - 2:54:15 PM] (6607) stubPath /home/BenjiSomur/Documents/Projects/javascript/typings is not a valid directory.
+2023-06-24 14:54:15.422 [info] [Info  - 2:54:15 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:15.839 [info] [Info  - 2:54:15 PM] (6607) No source files found.
+2023-06-24 14:54:16.040 [info] [Info  - 2:54:16 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:16.050 [info] [Info  - 2:54:16 PM] (6607) Setting pythonPath for service "nodejs": "/bin/python"
+2023-06-24 14:54:16.051 [info] [Warn  - 2:54:16 PM] (6607) stubPath /home/BenjiSomur/Documents/Projects/javascript/nodejs/typings is not a valid directory.
+2023-06-24 14:54:16.101 [info] [Info  - 2:54:16 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:16.279 [info] [Info  - 2:54:16 PM] (6607) No source files found.
+2023-06-24 14:54:16.334 [info] [Info  - 2:54:16 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:16.334 [info] [Info  - 2:54:16 PM] (6607) Background analysis(1) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.334 [info] [Info  - 2:54:16 PM] (6607) Background analysis(1) started
+2023-06-24 14:54:16.335 [info] [Info  - 2:54:16 PM] (6607) Background analysis(2) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.335 [info] [Info  - 2:54:16 PM] (6607) Background analysis(2) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(3) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(3) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(4) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(4) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(5) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(5) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(6) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(6) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(7) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(7) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(8) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(8) started
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(9) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-24 14:54:16.336 [info] [Info  - 2:54:16 PM] (6607) Background analysis(9) started
+2023-06-24 14:54:16.337 [info] [Info  - 2:54:16 PM] (6607) Setting pythonPath for service "loppbacktests": "/bin/python"
+2023-06-24 14:54:16.337 [info] [Warn  - 2:54:16 PM] (6607) stubPath /home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests/typings is not a valid directory.
+2023-06-24 14:54:16.378 [info] [Info  - 2:54:16 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:16.459 [info] [Info  - 2:54:16 PM] (6607) No source files found.
+2023-06-24 14:54:16.512 [info] [Info  - 2:54:16 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:16.515 [info] [Info  - 2:54:16 PM] (6607) Setting pythonPath for service "Prototipo": "/bin/python"
+2023-06-24 14:54:16.515 [info] [Warn  - 2:54:16 PM] (6607) stubPath /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo/typings is not a valid directory.
+2023-06-24 14:54:16.550 [info] [Info  - 2:54:16 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:16.619 [info] [Info  - 2:54:16 PM] (6607) No source files found.
+2023-06-24 14:54:16.699 [info] [Info  - 2:54:16 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:16.702 [info] [Info  - 2:54:16 PM] (6607) Setting pythonPath for service "docker": "/bin/python"
+2023-06-24 14:54:16.702 [info] [Warn  - 2:54:16 PM] (6607) stubPath /home/BenjiSomur/Documents/Projects/docker/typings is not a valid directory.
+2023-06-24 14:54:16.738 [info] [Info  - 2:54:16 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:16.804 [info] [Info  - 2:54:16 PM] (6607) No source files found.
+2023-06-24 14:54:16.861 [info] [Info  - 2:54:16 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:16.863 [info] [Info  - 2:54:16 PM] (6607) Setting pythonPath for service "dgeu-deev": "/bin/python"
+2023-06-24 14:54:16.864 [info] [Warn  - 2:54:16 PM] (6607) stubPath /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/typings is not a valid directory.
+2023-06-24 14:54:16.899 [info] [Info  - 2:54:16 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:17.015 [info] [Info  - 2:54:17 PM] (6607) No source files found.
+2023-06-24 14:54:17.066 [info] [Info  - 2:54:17 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:17.069 [info] [Info  - 2:54:17 PM] (6607) Setting pythonPath for service "htdocs": "/bin/python"
+2023-06-24 14:54:17.069 [info] [Warn  - 2:54:17 PM] (6607) stubPath /opt/lampp/htdocs/typings is not a valid directory.
+2023-06-24 14:54:17.104 [info] [Info  - 2:54:17 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:17.220 [info] [Info  - 2:54:17 PM] (6607) No source files found.
+2023-06-24 14:54:17.274 [info] [Info  - 2:54:17 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:17.276 [info] [Info  - 2:54:17 PM] (6607) Setting pythonPath for service "HEGACluster": "/home/BenjiSomur/anaconda3/envs/general/bin/python"
+2023-06-24 14:54:17.277 [info] [Warn  - 2:54:17 PM] (6607) stubPath /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster/typings is not a valid directory.
+2023-06-24 14:54:17.307 [info] [Info  - 2:54:17 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:17.554 [info] [Info  - 2:54:17 PM] (6607) Found 10 source files
+2023-06-24 14:54:17.595 [info] [Info  - 2:54:17 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:17.597 [info] [Info  - 2:54:17 PM] (6607) Setting pythonPath for service "training": "/home/BenjiSomur/anaconda3/envs/general/bin/python"
+2023-06-24 14:54:17.597 [info] [Warn  - 2:54:17 PM] (6607) stubPath /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training/typings is not a valid directory.
+2023-06-24 14:54:17.632 [info] [Info  - 2:54:17 PM] (6607) Assuming Python version 3.11
+2023-06-24 14:54:17.728 [info] [Info  - 2:54:17 PM] (6607) Found 9 source files
+2023-06-24 14:54:17.772 [info] [Info  - 2:54:17 PM] (6607) Skipping django stubs download because package is not installed.
+2023-06-24 14:54:18.418 [info] [Info  - 2:54:18 PM] (6607) Indexer background runner(10) root directory: /home/BenjiSomur/.vscode/extensions/ms-python.vscode-pylance-2023.6.30/dist (index)
+2023-06-24 14:54:18.419 [info] [Info  - 2:54:18 PM] (6607) Indexing(10) started
+2023-06-24 14:54:19.039 [info] [Info  - 2:54:19 PM] (6607) scanned(10) 160 files over 1 exec env
+2023-06-24 14:54:21.189 [info] [Info  - 2:54:21 PM] (6607) [IDX(10)] Long operation: index execution environment /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training (2094ms)
+2023-06-24 14:54:21.201 [info] [Info  - 2:54:21 PM] (6607) [IDX(10)] Long operation: index packages /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training (2110ms)
+2023-06-24 14:54:21.201 [info] [Info  - 2:54:21 PM] (6607) indexed(10) 115 files over 1 exec env
+2023-06-24 14:54:21.219 [info] [Info  - 2:54:21 PM] (6607) Indexing finished(10).

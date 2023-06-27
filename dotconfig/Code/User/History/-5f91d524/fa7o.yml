@@ -1,0 +1,35 @@
+version: "3"
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "8000:8000"
+      - "443:443"
+    volumes: -../www:/var/www/html/
+      - ./nginx.conf:/etc/nginx/conf.d/nginx.conf
+      - ./app:/app
+    depends_on:
+      -
+  php:
+    build:
+      context: .
+      dockerfile: PHP.Dockerfile
+    volumes:
+      - ./app:/app
+
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: "dgeu.psswd"
+      MYSQL_USER: "deev"
+      MYSQL_PASSWORD: "deev.psswd"
+      MYSQL_DATABASE: "deev"
+    volumes:
+      - mysqldata:/var/lib/mysql
+    ports:
+      - 3306:3306
+    expose:
+      - 3306
+volumes:
+  mysqldata: {}

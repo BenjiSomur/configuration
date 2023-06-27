@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil"
+        xmlns:p="http://www.evolus.vn/Namespace/Pencil"
+        xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+
+        id="dgeu_01"
+        displayName="Material icons"
+        description="DGEU material icons used"
+        author="Benji">
+        
+        <!-- Your shapes go here -->
+    <Shape id="ballot" displayName="Convocatoria" icon="./ballot_24px.svg">
+        
+
+    </Shape>
+
+        
+</Shapes>

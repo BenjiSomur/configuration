@@ -1,0 +1,206 @@
+/*
+ * Sidebar
+ */
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  /* Behind the navbar */
+  padding: 0;
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-sticky {
+  position: -webkit-sticky;
+  position: relative;
+  top: 90px;
+  /* Height of navbar */
+  height: calc(100vh - 48px);
+  padding-top: 0.5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+  /* Scrollable contents if viewport is shorter than content. */
+}
+
+.sidebar .nav-link {
+  font-weight: 500;
+  color: #333;
+}
+
+.sidebar .nav-link .feather {
+  margin-right: 4px;
+  color: #999;
+}
+
+.sidebar .nav-link.active {
+  color: #007bff;
+}
+
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather {
+  color: inherit;
+}
+
+.sidebar-heading {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.convocatoria {
+  -webkit-mask: url("../../images/icons/list-check.svg") no-repeat center;
+}
+
+.convocatoria-menu {
+  -webkit-mask: url("../../images/icons/list-check_menu.svg") no-repeat center;
+}
+
+.sol-eval {
+  -webkit-mask: url("../../images/icons/solid-file-import.svg") no-repeat center;
+}
+
+.sol-eval-menu {
+  -webkit-mask: url("../../images/icons/solid-file-import_menu.svg") no-repeat
+    center;
+}
+
+.logout-dgeu {
+  -webkit-mask: url("../../images/icons/regularlog-out.svg") no-repeat center;
+}
+
+.rep-inst {
+  -webkit-mask: url("../../images/icons/file-earmark-medical.svg") no-repeat
+    center;
+}
+
+.rep-inst-menu {
+  -webkit-mask: url("../../images/icons/file-earmark-medical_menu.svg")
+    no-repeat center;
+}
+
+.vid-entrev {
+  -webkit-mask: url("../../images/icons/camera-video.svg") no-repeat center;
+}
+
+.vid-entrev-menu {
+  -webkit-mask: url("../../images/icons/camera-video_menu.svg") no-repeat center;
+}
+
+.acreditacion {
+  -webkit-mask: url("../../images/icons/trophy-fill.svg") no-repeat center;
+}
+
+.acreditacion-menu {
+  -webkit-mask: url("../../images/icons/trophy-fill_menu.svg") no-repeat center;
+}
+
+li.sidebar-item:hover {
+  background: #eaaa00;
+}
+
+.sidebar-item:hover {
+  background: #eaaa00;
+}
+
+.icon-logout {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  background: #53565a;
+  mask: none;
+}
+
+.icon-logout:hover {
+  fill: #eaaa00;
+}
+
+.icon {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  background: white;
+  mask: none;
+}
+
+.icon-text {
+  vertical-align: middle;
+}
+
+.icon-menu {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  background: white;
+  mask: none;
+}
+
+.sidebar-hoverable {
+  width: 64px;
+  transition: all 0.02s;
+  white-space: nowrap;
+}
+
+.sidebar-hoverable:hover,
+.sidebar-hoverable:focus {
+  white-space: normal;
+  width: 240px;
+}
+
+.elem-name {
+  display: inline-block;
+  position: relative;
+  inline-size: 150px;
+  overflow-wrap: break-word;
+  font-size: 18px;
+  bottom: 25px;
+  color: #fff;
+}
+
+.card-dashboard {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: flex-start;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.col-dashb {
+  padding-top: 5%;
+}
+
+.card-name {
+  overflow-wrap: break-word;
+}
+
+.card-body:hover {
+  background-color: #eaaa00;
+}
+
+.sidebar.collapse {
+  -webkit-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  transition-timing-function: ease;
+  -webkit-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+
+.sidebar.collapsing {
+  opacity: 0.8;
+  width: 0;
+  -webkit-transition-timing-function: ease-in;
+  -o-transition-timing-function: ease-in;
+  transition-timing-function: ease-in;
+  -webkit-transition-property: width;
+  -o-transition-property: width;
+  transition-property: width;
+}

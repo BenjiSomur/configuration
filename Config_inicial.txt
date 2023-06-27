@@ -1,0 +1,92 @@
+sudo nano /etc/dnf/dnf.conf
+
+    fastestmirror=True
+    max_parallel_downloads=5
+    defaultyes=True
+    keepcache=True
+
+sudo dnf upgrade
+
+sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+sudo dnf install clisp
+
+sudo dnf install applet-window-buttons.x86_64
+
+## copiar carpeta Pictures
+
+sudo dnf install dnf-plugins-core
+
+sudo dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/x86_64/
+
+sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
+
+sudo dnf install brave-browser
+
+## entrar a discover e instalar zotero
+
+## Descargar e instalar anaconda
+
+conda config --set auto_activate_base false
+
+## Copiar los alias de .bashrc
+
+source .bashrc
+
+conda create -n general
+
+conda activate general
+
+conda install pip
+
+conda deactivate
+
+pip_general install numpy
+
+pip_general install matplotlib
+
+pip_general install mplsoccer
+
+pip_general install scipy
+
+pip_general install autopep8
+
+pip_general install jedi
+
+sudo dnf install ruby
+
+sudo dnf install rbenv
+
+rbenv install 3.1.2
+
+rbenv global 3.1.2
+
+gem install rubocop
+
+sudo dnf install vlc
+
+sudo dnf install emacs
+
+## copiar init.el en .emacs.d
+
+wemacs
+
+# instalar los paquetes de python faltantes para emacs
+
+## Instalar spotify
+
+sudo dnf install kvantum
+
+## copiar los paquetes de kvantum themes en Documents
+
+## instalar los paquetes de kvantum themes
+
+## instalar widget plasma configuration saver
+
+## cargar archivo de configuración
+
+## Configurar los shortcuts
+
+## Copiar los archivos del respaldo

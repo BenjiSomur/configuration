@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Documents/Projects/javascript"
+    },
+    {
+      "path": "../../../../Documents/Projects/javascript/nodejs"
+    },
+    {
+      "path": "../../../../Documents/Projects/javascript/nodejs/loppbacktests"
+    },
+    {
+      "path": "../../../../Documents/Master/4period/LANIA/Difusión/HEGAcluster"
+    },
+    {
+      "path": "../../../../Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo"
+    },
+    {
+      "path": "../../../../Documents/Projects/docker"
+    },
+    {
+      "path": "../../../../Documents/Projects/php"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "files.associations": {
+      "cmath": "cpp"
+    }
+  }
+}

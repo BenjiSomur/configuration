@@ -1,0 +1,55 @@
+May 25, 2023 12:38:20 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0
+May 31, 2023 12:56:01 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0
+May 31, 2023 12:56:01 PM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloading http://www.w3.org/2001/xml.xsd to /home/BenjiSomur/.lemminx/cache/http/www.w3.org/2001/xml.xsd...
+May 31, 2023 12:56:01 PM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloaded http://www.w3.org/2001/xml.xsd to /home/BenjiSomur/.lemminx/cache/http/www.w3.org/2001/xml.xsd in 169ms
+May 31, 2023 12:56:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Jun 01, 2023 12:42:37 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0
+Jun 08, 2023 10:36:21 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0
+Jun 12, 2023 10:27:47 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0
+Jun 12, 2023 10:18:21 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0
+Jun 15, 2023 12:24:54 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.25.0
+ - Java : /usr/lib/jvm/java-17-openjdk-17.0.7.0.7-5.fc37.x86_64
+ - VM Version : 17.0.7
+ - Git 765874d - [maven-release-plugin] prepare release 0.25.0

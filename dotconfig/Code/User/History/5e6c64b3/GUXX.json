@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.iconTheme": "ayu",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Fira Code , 'monospace', monospace",
+    "explorer.confirmDelete": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.external.linuxExec": "konsole",
+    "terminal.integrated.autoReplies": {},
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

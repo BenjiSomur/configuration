@@ -1,0 +1,6 @@
+2023-06-26 10:09:47.471 [info] Running tunnel CLI
+2023-06-26 10:09:47.471 [info] status Spawning: /usr/share/code/bin/code-tunnel tunnel status
+2023-06-26 10:09:47.489 [info] no tunnel process is currently running
+
+2023-06-26 10:09:47.491 [info] status exit(8540): + 1 
+2023-06-26 10:09:47.491 [info] No other tunnel running

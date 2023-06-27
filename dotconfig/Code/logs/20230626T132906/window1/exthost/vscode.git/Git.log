@@ -1,0 +1,390 @@
+2023-06-26 13:29:10.087 [info] Log level: Info
+2023-06-26 13:29:10.087 [info] Validating found git in: "git"
+2023-06-26 13:29:10.087 [info] Using git "2.41.0" from "git"
+2023-06-26 13:29:10.087 [info] > git rev-parse --show-toplevel [29ms]
+2023-06-26 13:29:10.087 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.087 [info] > git rev-parse --show-toplevel [10ms]
+2023-06-26 13:29:10.087 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.087 [info] > git rev-parse --show-toplevel [51ms]
+2023-06-26 13:29:10.087 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.088 [info] > git rev-parse --show-toplevel [163ms]
+2023-06-26 13:29:10.088 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.090 [info] > git rev-parse --show-toplevel [36ms]
+2023-06-26 13:29:10.090 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.111 [info] > git rev-parse --show-toplevel [17ms]
+2023-06-26 13:29:10.132 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-06-26 13:29:10.138 [info] Open repository: /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev
+2023-06-26 13:29:10.167 [info] > git rev-parse --show-toplevel [24ms]
+2023-06-26 13:29:10.167 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:10.184 [info] > git rev-parse --show-toplevel [11ms]
+2023-06-26 13:29:10.191 [info] > git config --get commit.template [24ms]
+2023-06-26 13:29:10.236 [info] > git rev-parse --git-dir --git-common-dir [46ms]
+2023-06-26 13:29:10.240 [info] Open repository: /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster
+2023-06-26 13:29:10.274 [info] > git rev-parse --show-toplevel [29ms]
+2023-06-26 13:29:10.274 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.487 [info] > git rev-parse --show-toplevel [207ms]
+2023-06-26 13:29:10.494 [info] > git config --get commit.template [219ms]
+2023-06-26 13:29:10.494 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [226ms]
+2023-06-26 13:29:10.567 [info] > git status -z -uall [62ms]
+2023-06-26 13:29:10.575 [info] > git rev-parse --show-toplevel [81ms]
+2023-06-26 13:29:10.575 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.605 [info] > git rev-parse --show-toplevel [22ms]
+2023-06-26 13:29:10.605 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.631 [info] > git rev-parse --show-toplevel [20ms]
+2023-06-26 13:29:10.631 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.638 [info] > git config --get commit.template [35ms]
+2023-06-26 13:29:10.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms]
+2023-06-26 13:29:10.647 [info] > git rev-parse --show-toplevel [10ms]
+2023-06-26 13:29:10.647 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.691 [info] > git check-ignore -v -z --stdin [3ms]
+2023-06-26 13:29:10.693 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [33ms]
+2023-06-26 13:29:10.703 [info] > git rev-parse --show-toplevel [48ms]
+2023-06-26 13:29:10.703 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.713 [info] > git status -z -uall [11ms]
+2023-06-26 13:29:10.740 [info] > git rev-parse --show-toplevel [28ms]
+2023-06-26 13:29:10.740 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:10.758 [info] > git rev-parse --show-toplevel [9ms]
+2023-06-26 13:29:10.758 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.768 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-26 13:29:10.768 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.775 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:10.775 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.782 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:10.794 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-06-26 13:29:10.799 [info] Open repository: /home/BenjiSomur/Documents/Projects/javascript/complete-javascript-course
+2023-06-26 13:29:10.832 [info] > git config --get commit.template [13ms]
+2023-06-26 13:29:10.832 [info] > git rev-parse --show-toplevel [23ms]
+2023-06-26 13:29:10.832 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.844 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-26 13:29:10.844 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-06-26 13:29:10.878 [info] > git rev-parse --show-toplevel [22ms]
+2023-06-26 13:29:10.878 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.893 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-26 13:29:10.907 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-06-26 13:29:10.914 [info] Open repository: /home/BenjiSomur/Documents/Projects/javascript/nodejs/complete-node-bootcamp
+2023-06-26 13:29:10.936 [info] > git rev-parse --show-toplevel [12ms]
+2023-06-26 13:29:10.936 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.949 [info] > git config --get commit.template [13ms]
+2023-06-26 13:29:10.961 [info] > git rev-parse --show-toplevel [16ms]
+2023-06-26 13:29:10.961 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-06-26 13:29:10.984 [info] > git rev-parse --show-toplevel [11ms]
+2023-06-26 13:29:10.984 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:10.997 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-26 13:29:10.997 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:11.011 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:11.011 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:11.022 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:11.022 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:11.033 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:11.033 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:11.050 [info] > git rev-parse --show-toplevel [7ms]
+2023-06-26 13:29:11.050 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:11.062 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:12.285 [info] > git rev-parse --show-toplevel [1211ms]
+2023-06-26 13:29:12.285 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:13.967 [info] > git status -z -uall [3322ms] (cancelled)
+2023-06-26 13:29:13.967 [info] > git status -z -uall [3090ms]
+2023-06-26 13:29:13.967 [info] > git status -z -uall [2984ms]
+2023-06-26 13:29:13.967 [info] > git check-ignore -v -z --stdin [13ms]
+2023-06-26 13:29:13.968 [info] > git rev-parse --show-toplevel [1673ms]
+2023-06-26 13:29:13.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:14.059 [info] > git rev-parse --show-toplevel [81ms]
+2023-06-26 13:29:14.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:14.082 [info] > git config --get commit.template [118ms]
+2023-06-26 13:29:14.087 [info] > git rev-parse --show-toplevel [6ms]
+2023-06-26 13:29:14.087 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:14.096 [info] > git config --get commit.template [54ms]
+2023-06-26 13:29:14.096 [info] > git config --get commit.template [67ms]
+2023-06-26 13:29:14.116 [info] > git rev-parse --show-toplevel [20ms]
+2023-06-26 13:29:14.116 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:14.159 [info] > git rev-parse --show-toplevel [27ms]
+2023-06-26 13:29:14.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [54ms]
+2023-06-26 13:29:14.313 [info] > git rev-parse --show-toplevel [145ms]
+2023-06-26 13:29:14.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [168ms]
+2023-06-26 13:29:14.355 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [208ms]
+2023-06-26 13:29:14.368 [info] > git rev-parse --show-toplevel [42ms]
+2023-06-26 13:29:14.368 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:14.504 [info] > git rev-parse --show-toplevel [123ms]
+2023-06-26 13:29:14.504 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:14.654 [info] > git status -z -uall [299ms]
+2023-06-26 13:29:14.655 [info] > git rev-parse --show-toplevel [143ms]
+2023-06-26 13:29:14.655 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:14.723 [info] > git status -z -uall [358ms]
+2023-06-26 13:29:14.723 [info] > git show --textconv :app/public/DEEV/dashboard/html/menu.html [45ms]
+2023-06-26 13:29:14.723 [info] > git show --textconv :app/public/DEEV/dashboard/html/reporte-institucional.html [17ms]
+2023-06-26 13:29:14.724 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/html/reporte-institucional.html [9ms]
+2023-06-26 13:29:14.737 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/html/menu.html [43ms]
+2023-06-26 13:29:14.752 [info] > git rev-parse --show-toplevel [87ms]
+2023-06-26 13:29:14.752 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:14.770 [info] > git rev-parse --show-toplevel [8ms]
+2023-06-26 13:29:14.770 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:14.781 [info] > git cat-file -s ea5c647a7a674c9e75810b82fcb174ae1d144a02 [30ms]
+2023-06-26 13:29:14.782 [info] > git cat-file -s f28582b339fd1833c0f7d7b8de7c939fbaad4891 [45ms]
+2023-06-26 13:29:15.606 [info] > git status -z -uall [1429ms] (cancelled)
+2023-06-26 13:29:15.606 [info] > git rev-parse --show-toplevel [826ms]
+2023-06-26 13:29:15.606 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.746 [info] > git rev-parse --show-toplevel [1127ms]
+2023-06-26 13:29:16.747 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.793 [info] > git rev-parse --show-toplevel [32ms]
+2023-06-26 13:29:16.793 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.810 [info] > git rev-parse --show-toplevel [7ms]
+2023-06-26 13:29:16.810 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:16.824 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:16.824 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.835 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:16.835 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.846 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:16.846 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.859 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:16.859 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.872 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:16.873 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.886 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:16.886 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.903 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:16.903 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:16.918 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:16.918 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.938 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-26 13:29:16.938 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.956 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:16.956 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.975 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:16.975 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:16.997 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-26 13:29:16.997 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:17.022 [info] > git rev-parse --show-toplevel [6ms]
+2023-06-26 13:29:17.022 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:17.040 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-26 13:29:17.040 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-26 13:29:17.056 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-26 13:29:17.056 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-06-26 13:29:19.192 [info] > git config --get commit.template [3ms]
+2023-06-26 13:29:19.210 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [1ms]
+2023-06-26 13:29:19.233 [info] > git status -z -uall [7ms]
+2023-06-26 13:30:58.645 [info] > git config --get commit.template [19ms]
+2023-06-26 13:30:58.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:30:58.681 [info] > git status -z -uall [17ms]
+2023-06-26 13:31:00.333 [info] > git show --textconv :app/public/DEEV/dashboard/js/dashboard.js [12ms]
+2023-06-26 13:31:00.333 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/js/dashboard.js [5ms]
+2023-06-26 13:31:00.345 [info] > git cat-file -s 297b6dd5db9e3808effccd7346711bc0a4c481fd [5ms]
+2023-06-26 13:32:56.290 [info] > git config --get commit.template [11ms]
+2023-06-26 13:32:56.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:32:56.328 [info] > git status -z -uall [22ms]
+2023-06-26 13:32:58.979 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-26 13:32:59.632 [info] > git check-ignore -v -z --stdin [1ms]
+2023-06-26 13:33:01.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [254ms]
+2023-06-26 13:33:01.645 [info] > git config --get commit.template [302ms]
+2023-06-26 13:33:01.694 [info] > git status -z -uall [34ms]
+2023-06-26 13:36:59.243 [info] > git config --get commit.template [16ms]
+2023-06-26 13:36:59.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:36:59.270 [info] > git status -z -uall [15ms]
+2023-06-26 13:39:06.174 [info] > git config --get commit.template [22ms]
+2023-06-26 13:39:06.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [6ms]
+2023-06-26 13:39:06.203 [info] > git status -z -uall [10ms]
+2023-06-26 13:39:21.278 [info] > git config --get commit.template [14ms]
+2023-06-26 13:39:21.280 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:39:21.303 [info] > git status -z -uall [8ms]
+2023-06-26 13:39:38.004 [info] > git check-ignore -v -z --stdin [9ms]
+2023-06-26 13:39:38.025 [info] > git check-ignore -v -z --stdin [23ms]
+2023-06-26 13:39:39.815 [info] > git check-ignore -v -z --stdin [5ms]
+2023-06-26 13:39:41.749 [info] > git check-ignore -v -z --stdin [4ms]
+2023-06-26 13:39:44.573 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-26 13:39:45.979 [info] > git show --textconv :app/public/DEEV/vendor/select2/select2.min.js [11ms]
+2023-06-26 13:39:45.981 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/vendor/select2/select2.min.js [3ms]
+2023-06-26 13:39:45.990 [info] > git cat-file -s 43f0a651e6671ce47ad453a6d9b820366682afed [2ms]
+2023-06-26 13:40:10.511 [info] > git config --get commit.template [21ms]
+2023-06-26 13:40:10.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [12ms]
+2023-06-26 13:40:10.559 [info] > git status -z -uall [20ms]
+2023-06-26 13:40:40.270 [info] > git config --get commit.template [10ms]
+2023-06-26 13:40:40.271 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:40:40.295 [info] > git status -z -uall [11ms]
+2023-06-26 13:41:53.864 [info] > git config --get commit.template [20ms]
+2023-06-26 13:41:53.866 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:41:53.893 [info] > git status -z -uall [14ms]
+2023-06-26 13:41:56.986 [info] > git show --textconv :nginx.conf [16ms]
+2023-06-26 13:41:56.987 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/nginx.conf [1ms]
+2023-06-26 13:41:56.994 [info] > git cat-file -s 7e00aa23c7ec84b144df568d18a6962581bf6b0d [1ms]
+2023-06-26 13:42:24.109 [info] > git config --get commit.template [3ms]
+2023-06-26 13:42:24.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:42:24.143 [info] > git status -z -uall [7ms]
+2023-06-26 13:42:35.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:42:35.688 [info] > git config --get commit.template [16ms]
+2023-06-26 13:42:35.708 [info] > git status -z -uall [8ms]
+2023-06-26 13:42:42.282 [info] > git config --get commit.template [14ms]
+2023-06-26 13:42:42.283 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:42:42.304 [info] > git status -z -uall [9ms]
+2023-06-26 13:43:15.471 [info] > git config --get commit.template [11ms]
+2023-06-26 13:43:15.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:43:15.488 [info] > git status -z -uall [8ms]
+2023-06-26 13:43:15.544 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/js/dashboard.js [12ms]
+2023-06-26 13:43:15.554 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/html/reporte-institucional.html [38ms]
+2023-06-26 13:43:15.567 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/html/menu.html [62ms]
+2023-06-26 13:43:15.579 [info] > git cat-file -s ea5c647a7a674c9e75810b82fcb174ae1d144a02 [2ms]
+2023-06-26 13:43:15.580 [info] > git cat-file -s f28582b339fd1833c0f7d7b8de7c939fbaad4891 [14ms]
+2023-06-26 13:43:15.580 [info] > git cat-file -s 297b6dd5db9e3808effccd7346711bc0a4c481fd [26ms]
+2023-06-26 13:43:15.581 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/nginx.conf [39ms]
+2023-06-26 13:43:15.590 [info] > git cat-file -s 7e00aa23c7ec84b144df568d18a6962581bf6b0d [1ms]
+2023-06-26 13:43:15.638 [info] > git show --textconv :app/public/DEEV/dashboard/html/menu.html [31ms]
+2023-06-26 13:43:15.638 [info] > git show --textconv :app/public/DEEV/dashboard/html/reporte-institucional.html [20ms]
+2023-06-26 13:43:15.638 [info] > git show --textconv :app/public/DEEV/dashboard/js/dashboard.js [11ms]
+2023-06-26 13:43:15.638 [info] > git show --textconv :nginx.conf [1ms]
+2023-06-26 13:43:20.516 [info] > git config --get commit.template [11ms]
+2023-06-26 13:43:20.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:43:20.530 [info] > git status -z -uall [7ms]
+2023-06-26 13:43:45.923 [info] > git show --textconv :app/public/DEEV/dashboard/dashboard_index.php [7ms]
+2023-06-26 13:43:45.924 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/dashboard_index.php [2ms]
+2023-06-26 13:43:45.932 [info] > git cat-file -s 705a3237a044f3a3cbc2655aecb9f99948ea2452 [1ms]
+2023-06-26 13:43:47.763 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/fileManager.php [0ms]
+2023-06-26 13:43:47.769 [info] > git show --textconv :app/public/DEEV/dashboard/fileManager.php [14ms]
+2023-06-26 13:43:47.770 [info] > git cat-file -s b1df4cb8a617156fc4b049d369626b8a26fa351b [1ms]
+2023-06-26 13:44:43.894 [info] > git config --get commit.template [22ms]
+2023-06-26 13:44:43.895 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:44:43.930 [info] > git status -z -uall [17ms]
+2023-06-26 13:44:49.032 [info] > git config --get commit.template [19ms]
+2023-06-26 13:44:49.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:44:49.067 [info] > git status -z -uall [16ms]
+2023-06-26 13:45:07.196 [info] > git config --get commit.template [10ms]
+2023-06-26 13:45:07.196 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:45:07.207 [info] > git status -z -uall [5ms]
+2023-06-26 13:45:19.310 [info] > git config --get commit.template [2ms]
+2023-06-26 13:45:19.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:45:19.355 [info] > git status -z -uall [12ms]
+2023-06-26 13:45:40.365 [info] > git config --get commit.template [12ms]
+2023-06-26 13:45:40.365 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [1ms]
+2023-06-26 13:45:40.376 [info] > git status -z -uall [5ms]
+2023-06-26 13:46:33.213 [info] > git config --get commit.template [10ms]
+2023-06-26 13:46:33.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:46:33.230 [info] > git status -z -uall [5ms]
+2023-06-26 13:47:25.488 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-26 13:47:27.608 [info] > git config --get commit.template [18ms]
+2023-06-26 13:47:27.609 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:47:27.635 [info] > git status -z -uall [11ms]
+2023-06-26 13:47:36.620 [info] > git config --get commit.template [8ms]
+2023-06-26 13:47:36.622 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:47:36.642 [info] > git status -z -uall [15ms]
+2023-06-26 13:48:05.439 [info] > git config --get commit.template [2ms]
+2023-06-26 13:48:05.454 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:48:05.473 [info] > git status -z -uall [7ms]
+2023-06-26 13:48:05.526 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/js/dashboard.js [12ms]
+2023-06-26 13:48:05.536 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/html/reporte-institucional.html [33ms]
+2023-06-26 13:48:05.545 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/html/menu.html [55ms]
+2023-06-26 13:48:05.579 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/fileManager.php [4ms]
+2023-06-26 13:48:05.588 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/app/public/DEEV/dashboard/dashboard_index.php [23ms]
+2023-06-26 13:48:05.595 [info] > git cat-file -s ea5c647a7a674c9e75810b82fcb174ae1d144a02 [41ms]
+2023-06-26 13:48:05.596 [info] > git cat-file -s f28582b339fd1833c0f7d7b8de7c939fbaad4891 [52ms]
+2023-06-26 13:48:05.597 [info] > git cat-file -s 297b6dd5db9e3808effccd7346711bc0a4c481fd [62ms]
+2023-06-26 13:48:05.597 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/nginx.conf [72ms]
+2023-06-26 13:48:05.606 [info] > git cat-file -s 705a3237a044f3a3cbc2655aecb9f99948ea2452 [11ms]
+2023-06-26 13:48:05.606 [info] > git cat-file -s b1df4cb8a617156fc4b049d369626b8a26fa351b [18ms]
+2023-06-26 13:48:05.632 [info] > git show --textconv :app/public/DEEV/dashboard/html/menu.html [18ms]
+2023-06-26 13:48:05.632 [info] > git show --textconv :app/public/DEEV/dashboard/html/reporte-institucional.html [9ms]
+2023-06-26 13:48:05.633 [info] > git cat-file -s 7e00aa23c7ec84b144df568d18a6962581bf6b0d [28ms]
+2023-06-26 13:48:05.652 [info] > git show --textconv :app/public/DEEV/dashboard/js/dashboard.js [21ms]
+2023-06-26 13:48:05.652 [info] > git show --textconv :app/public/DEEV/dashboard/dashboard_index.php [11ms]
+2023-06-26 13:48:05.662 [info] > git show --textconv :app/public/DEEV/dashboard/fileManager.php [11ms]
+2023-06-26 13:48:05.664 [info] > git show --textconv :nginx.conf [3ms]
+2023-06-26 13:48:10.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:48:10.487 [info] > git config --get commit.template [6ms]
+2023-06-26 13:48:10.496 [info] > git status -z -uall [5ms]
+2023-06-26 13:48:16.301 [info] > git config --get commit.template [31ms]
+2023-06-26 13:48:16.303 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [27ms]
+2023-06-26 13:48:16.359 [info] > git status -z -uall [50ms]
+2023-06-26 13:48:38.247 [info] > git config --get commit.template [13ms]
+2023-06-26 13:48:38.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:48:38.277 [info] > git status -z -uall [16ms]
+2023-06-26 13:48:43.323 [info] > git config --get commit.template [21ms]
+2023-06-26 13:48:43.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:48:43.363 [info] > git status -z -uall [19ms]
+2023-06-26 13:49:13.759 [info] > git check-ignore -v -z --stdin [2ms]
+2023-06-26 13:49:15.661 [info] > git config --get commit.template [15ms]
+2023-06-26 13:49:15.662 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:49:15.683 [info] > git status -z -uall [9ms]
+2023-06-26 13:49:20.701 [info] > git config --get commit.template [6ms]
+2023-06-26 13:49:20.703 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:49:20.721 [info] > git status -z -uall [12ms]
+2023-06-26 13:49:39.136 [info] > git config --get commit.template [12ms]
+2023-06-26 13:49:39.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:49:39.168 [info] > git status -z -uall [16ms]
+2023-06-26 13:50:18.784 [info] > git config --get commit.template [12ms]
+2023-06-26 13:50:18.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:50:18.808 [info] > git status -z -uall [10ms]
+2023-06-26 13:50:25.763 [info] > git config --get commit.template [19ms]
+2023-06-26 13:50:25.764 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [3ms]
+2023-06-26 13:50:25.790 [info] > git status -z -uall [13ms]
+2023-06-26 13:51:06.821 [info] > git check-ignore -v -z --stdin [1ms]
+2023-06-26 13:52:45.955 [info] > git config --get commit.template [13ms]
+2023-06-26 13:52:45.957 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:52:45.984 [info] > git status -z -uall [18ms]
+2023-06-26 13:52:51.003 [info] > git config --get commit.template [8ms]
+2023-06-26 13:52:51.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:52:51.014 [info] > git status -z -uall [5ms]
+2023-06-26 13:53:07.032 [info] > git config --get commit.template [8ms]
+2023-06-26 13:53:07.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [1ms]
+2023-06-26 13:53:07.047 [info] > git status -z -uall [6ms]
+2023-06-26 13:53:24.325 [info] > git config --get commit.template [17ms]
+2023-06-26 13:53:24.325 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [1ms]
+2023-06-26 13:53:24.336 [info] > git status -z -uall [6ms]
+2023-06-26 13:53:29.837 [info] > git config --get commit.template [21ms]
+2023-06-26 13:53:29.839 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [4ms]
+2023-06-26 13:53:29.875 [info] > git status -z -uall [17ms]
+2023-06-26 13:54:22.663 [info] > git config --get commit.template [6ms]
+2023-06-26 13:54:22.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [1ms]
+2023-06-26 13:54:22.675 [info] > git status -z -uall [5ms]
+2023-06-26 13:54:45.466 [info] > git config --get commit.template [17ms]
+2023-06-26 13:54:45.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dashboard refs/remotes/dashboard [2ms]
+2023-06-26 13:54:45.487 [info] > git status -z -uall [7ms]
+2023-06-26 13:56:50.126 [info] > git show --textconv :PHP.Dockerfile [11ms]
+2023-06-26 13:56:50.127 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/PHP.Dockerfile [3ms]
+2023-06-26 13:56:50.136 [info] > git cat-file -s de0fa4046ba3e3d546e73badd37d9c64121f1991 [1ms]
+2023-06-26 13:56:54.412 [info] > git show --textconv :docker-compose.yml [24ms]
+2023-06-26 13:56:54.414 [info] > git ls-files --stage -- /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev/docker-compose.yml [5ms]
+2023-06-26 13:56:54.428 [info] > git cat-file -s 7f122a684482deb2777efc568ce69f7bea382350 [2ms]

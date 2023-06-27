@@ -1,0 +1,37 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil"
+  xmlns:p="http://www.evolus.vn/Namespace/Pencil"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  id="collection" displayName="My Collection"
+  description="My First Collection"
+  author="author">
+  <Shape id="helloworld" displayName="Hello World"
+    icon="Icons/plain-text.png">
+    <Properties>
+      <PropertyGroup name="Text">
+        <Property name="label" displayName="Label"
+          type="PlainText">Hello World</Property>
+        <Property name="textColor" displayName="Color"
+          type="Color">#000000ff</Property>
+        <Property name="textFont"
+          displayName="Font"
+          type="Default Font">Arial|normal|13px</Property>
+      </PropertyGroup>
+    </Properties>
+    <Behaviors>
+      <For ref="text">
+        <TextContent>$label</TextContent>
+        <Fill>$textColor</Fill>
+        <Font>$textFont</Font>
+        <BoxFit>
+          <Arg>new Bound(0, 0, 100, 12)</Arg>
+          <Arg>new Alignment(0, 1)</Arg>
+        </BoxFit>
+      </For>
+    </Behaviors>
+    <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil"
+      xmlns="http://www.w3.org/2000/svg">
+      <text id="text" />
+    </p:Content>
+  </Shape>
+</Shapes>  

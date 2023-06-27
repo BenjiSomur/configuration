@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "explorer.confirmDelete": false
+}

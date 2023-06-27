@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/Projects/javascript"
+		},
+		{
+			"path": "../../../../Documents/Master/Research project/HEGAcluster/HEGACluster"
+		},
+		{
+			"path": "../../../../Documents/Projects/javascript/nodejs/complete-node-bootcamp"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

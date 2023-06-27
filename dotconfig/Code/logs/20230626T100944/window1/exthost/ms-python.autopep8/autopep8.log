@@ -1,0 +1,279 @@
+2023-06-26 10:09:47.547 [info] Name: autopep8
+2023-06-26 10:09:47.547 [info] Module: autopep8
+2023-06-26 10:09:47.547 [info] Python extension loading
+2023-06-26 10:09:47.547 [info] Waiting for interpreter from python extension.
+2023-06-26 10:09:47.547 [info] Python extension loaded
+2023-06-26 10:09:47.547 [info] Server run command: /bin/python /home/BenjiSomur/.vscode/extensions/ms-python.autopep8-2023.4.0/bundled/tool/lsp_server.py
+2023-06-26 10:09:47.547 [info] Server: Start requested.
+2023-06-26 10:09:48.451 [info] CWD Server: /opt/lampp/htdocs
+2023-06-26 10:09:48.468 [info] sys.path used to run Server:
+   /home/BenjiSomur/.vscode/extensions/ms-python.autopep8-2023.4.0/bundled/libs
+   /home/BenjiSomur/.vscode/extensions/ms-python.autopep8-2023.4.0/bundled/tool
+   /usr/lib64/python311.zip
+   /usr/lib64/python3.11
+   /usr/lib64/python3.11/lib-dynload
+   /usr/lib64/python3.11/site-packages
+   /usr/lib/python3.11/site-packages
+2023-06-26 10:09:48.478 [info] PYTHONPATH env variable used to run Server:
+   /home/BenjiSomur/.vscode/extensions/ms-python.autopep8-2023.4.0/bundled/libs:
+2023-06-26 10:09:48.511 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/BenjiSomur/Documents/Projects/javascript",
+        "workspace": "file:///home/BenjiSomur/Documents/Projects/javascript",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Projects/javascript/nodejs",
+        "workspace": "file:///home/BenjiSomur/Documents/Projects/javascript/nodejs",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests",
+        "workspace": "file:///home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo",
+        "workspace": "file:///home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Projects/docker",
+        "workspace": "file:///home/BenjiSomur/Documents/Projects/docker",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev",
+        "workspace": "file:///home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/opt/lampp/htdocs",
+        "workspace": "file:///opt/lampp/htdocs",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster",
+        "workspace": "file:///home/BenjiSomur/Documents/Master/Research%20project/HEGAcluster/HEGACluster",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/BenjiSomur/anaconda3/envs/general/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    },
+    {
+        "cwd": "/home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training",
+        "workspace": "file:///home/BenjiSomur/Documents/Master/Research%20project/HEGAcluster/training",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/BenjiSomur/anaconda3/envs/general/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "onWarning"
+    }
+]
+
+2023-06-26 10:09:48.527 [info] Global settings:
+{
+    "cwd": "/home/BenjiSomur",
+    "workspace": "/home/BenjiSomur",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "onWarning"
+}
+
+2023-06-26 10:09:48.546 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.576 [info] CWD Server: /home/BenjiSomur/Documents/Projects/javascript
+2023-06-26 10:09:48.646 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/javascript:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:48.670 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:48.686 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.707 [info] CWD Server: /home/BenjiSomur/Documents/Projects/javascript/nodejs
+2023-06-26 10:09:48.716 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/javascript/nodejs:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:48.761 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:48.765 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.778 [info] CWD Server: /home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests
+2023-06-26 10:09:48.801 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:48.815 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:48.835 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.860 [info] CWD Server: /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo
+2023-06-26 10:09:48.872 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:48.882 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:48.900 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.913 [info] CWD Server: /home/BenjiSomur/Documents/Projects/docker
+2023-06-26 10:09:48.932 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/docker:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:48.944 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:48.954 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.954 [info] CWD Server: /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev
+2023-06-26 10:09:48.955 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:48.960 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:48.971 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:48.972 [info] CWD Server: /opt/lampp/htdocs
+2023-06-26 10:09:48.996 [info] Version info for formatter running for /opt/lampp/htdocs:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:49.007 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:49.008 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:49.019 [info] CWD Server: /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster
+2023-06-26 10:09:49.146 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:49.185 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:50.148 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:51.834 [info] CWD Server: /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training
+2023-06-26 10:09:51.896 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:51.926 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:51.985 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.156 [info] CWD Server: /home/BenjiSomur/Documents/Projects/javascript
+2023-06-26 10:09:52.198 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/javascript:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.234 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.237 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.238 [info] CWD Server: /home/BenjiSomur/Documents/Projects/javascript/nodejs
+2023-06-26 10:09:52.238 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/javascript/nodejs:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.238 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.239 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.239 [info] CWD Server: /home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests
+2023-06-26 10:09:52.239 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/javascript/nodejs/loppbacktests:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.239 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.239 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.239 [info] CWD Server: /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo
+2023-06-26 10:09:52.239 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/Prototipo:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.239 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.239 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.239 [info] CWD Server: /home/BenjiSomur/Documents/Projects/docker
+2023-06-26 10:09:52.239 [info] Version info for formatter running for /home/BenjiSomur/Documents/Projects/docker:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.239 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.239 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.240 [info] CWD Server: /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev
+2023-06-26 10:09:52.240 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/4period/LANIA/DGEU/Convocatoria/dgeu-deev:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.240 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.241 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.387 [info] CWD Server: /opt/lampp/htdocs
+2023-06-26 10:09:52.390 [info] Version info for formatter running for /opt/lampp/htdocs:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.393 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.393 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.393 [info] CWD Server: /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster
+2023-06-26 10:09:52.393 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/HEGACluster:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.394 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 10:09:52.409 [info] /bin/python -m autopep8 --version
+2023-06-26 10:09:52.410 [info] CWD Server: /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training
+2023-06-26 10:09:52.410 [info] Version info for formatter running for /home/BenjiSomur/Documents/Master/Research project/HEGAcluster/training:
+autopep8 2.0.2 (pycodestyle: 2.10.0)
+
+2023-06-26 10:09:52.410 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.2
+
+2023-06-26 11:28:13.691 [info] [Trace - 11:28:13 AM] Sending request 'shutdown - (1)'.
+2023-06-26 11:28:13.705 [info] [Trace - 11:28:13 AM] Received response 'shutdown - (1)' in 24ms.
+2023-06-26 11:28:13.705 [info] [Trace - 11:28:13 AM] Sending notification 'exit'.
