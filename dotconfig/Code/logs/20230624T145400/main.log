@@ -1,5 +1,0 @@
-2023-06-24 14:54:00.315 [info] update#setState idle
-2023-06-24 14:54:07.248 [warning] No ptyHost heartbeat after 6 seconds
-2023-06-24 14:54:30.318 [info] update#setState checking for updates
-2023-06-24 14:54:30.457 [info] update#setState idle
-2023-06-24 14:58:43.258 [info] Extension host with pid 5752 exited with code: 0, signal: unknown.

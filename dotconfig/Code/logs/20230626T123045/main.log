@@ -1,6 +1,0 @@
-2023-06-26 12:30:45.799 [info] update#setState idle
-2023-06-26 12:30:53.782 [warning] No ptyHost heartbeat after 6 seconds
-2023-06-26 12:31:15.802 [info] update#setState checking for updates
-2023-06-26 12:31:15.986 [info] update#setState idle
-2023-06-26 13:18:17.711 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 20123]: crashed with code 15 and reason 'killed'
-2023-06-26 13:18:22.725 [info] Extension host with pid 20111 exited with code: 0, signal: unknown.

@@ -14,7 +14,7 @@
   "terminal.integrated.autoReplies": {},
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "python.condaPath": "/home/BenjiSomur/anaconda3/bin/",
+  "python.condaPath": "~/anaconda3/bin/",
   "redhat.telemetry.enabled": true,
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"
